@@ -61,7 +61,7 @@ export function createWidgetsNode(type: WidgetType): WidgetNode {
                 },
                 {
                   href: '',
-                  content: '15123456789',
+                  content: '手机号码',
                   icon: 'MynauiTelephoneCall',
                 },
               ],
@@ -72,8 +72,8 @@ export function createWidgetsNode(type: WidgetType): WidgetNode {
                   icon: 'LogosGithubIcon',
                 },
                 {
-                  href: 'mailto:tanjiro@gmail.com',
-                  content: 'tanjiro@gmail.com',
+                  href: 'mailto:@gmail.com',
+                  content: '@gmail.com',
                   icon: 'LogosGoogleGmail',
                 },
               ],
@@ -176,13 +176,13 @@ export const createDefaultWidgets: () => WidgetNode[] = () => {
           linksGroup: [
             [
               { href: '', content: '2050/01', icon: 'MynauiCake' },
-              { href: '', content: '15123456789', icon: 'MynauiTelephoneCall' },
+              { href: '', content: '手机号码', icon: 'MynauiTelephoneCall' },
             ],
             [
               { href: 'https://github.com/', content: 'github.com', icon: 'LogosGithubIcon' },
               {
-                href: 'mailto:tanjiro@gmail.com',
-                content: 'tanjiro@gmail.com',
+                href: 'mailto:@gmail.com',
+                content: '@gmail.com',
                 icon: 'LogosGoogleGmail',
               },
             ],
