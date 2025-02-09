@@ -47,11 +47,11 @@ export function createWidgetsNode(type: WidgetType): WidgetNode {
         id,
         data: {
           propsData: {
-            avatarUrl: '/avatar.jpg',
+            avatarUrl: 'https://upload.wikimedia.org/wikipedia/zh/f/fc/%E5%8E%9F%E7%A5%9E_%E5%9C%8B%E9%9A%9B%E7%89%88.jpeg',
             avatarSize: 86,
             avatarRound: true,
-            name: '炭治郎',
-            jobTitle: '前端开发工程师',
+            name: '派蒙',
+            jobTitle: '吉祥物&应急食品',
             linksGroup: [
               [
                 {

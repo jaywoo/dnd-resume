@@ -7,11 +7,11 @@
     "drag and drop",
     "generate resume"
   ],
-  "homepage": "https://github.com/Arman19941113/dnd-resume#readme",
+  "homepage": "https://github.com/jaywoo/",
   "author": "Arman Tang",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arman19941113/dnd-resume"
+    "url": "https://github.com/jaywoo/"
   },
   "type": "module",
   "scripts": {

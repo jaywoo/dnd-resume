@@ -83,7 +83,7 @@ const EditHeader = () => {
     <div className="border-b-10 flex h-[52px] items-center justify-between border-b px-6">
       {/* github */}
       <a
-        href="https://github.com/Arman19941113/dnd-resume"
+        href="https://github.com/jaywoo/"
         target="_blank"
         className="flex-center"
       >
