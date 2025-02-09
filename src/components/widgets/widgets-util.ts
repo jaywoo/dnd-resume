@@ -171,11 +171,11 @@ export const createDefaultWidgets: () => WidgetNode[] = () => {
           avatarUrl: '/avatar.jpg',
           avatarSize: 86,
           avatarRound: true,
-          name: '炭治郎',
-          jobTitle: '前端开发工程师',
+          name: '派蒙',
+          jobTitle: '吉祥物&应急食品',
           linksGroup: [
             [
-              { href: '', content: '2050/01', icon: 'MynauiCake' },
+              { href: '', content: '2025/01', icon: 'MynauiCake' },
               { href: '', content: '手机号码', icon: 'MynauiTelephoneCall' },
             ],
             [
