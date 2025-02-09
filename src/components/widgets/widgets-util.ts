@@ -168,7 +168,7 @@ export const createDefaultWidgets: () => WidgetNode[] = () => {
       id: 'm5nh7g2t_c08t',
       data: {
         propsData: {
-          avatarUrl: '/avatar.jpg',
+          avatarUrl: 'https://upload.wikimedia.org/wikipedia/zh/f/fc/%E5%8E%9F%E7%A5%9E_%E5%9C%8B%E9%9A%9B%E7%89%88.jpeg',
           avatarSize: 86,
           avatarRound: true,
           name: '派蒙',
